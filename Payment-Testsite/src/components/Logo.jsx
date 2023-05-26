@@ -17,7 +17,7 @@ const Logo = () => {
         </div>
         <p className='font-semibold text-lg ml-3'>
           AceCoin
-         <span className='font-thin'>Pay</span>
+         <span className='font-light'>Pay</span>
         </p>
     </div>
   )

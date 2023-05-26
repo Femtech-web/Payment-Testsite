@@ -23,6 +23,6 @@ export const style = {
     closeBar: 'absolute top-2 right-4 cursor-pointer',
     payment: 'flex justify-evenly flex-col',
     pay: 'text-slate-500 text-[0.75rem] mb-2',
-    money1: 'text-[0.75rem] font-thin mr-3',
-    money2: 'font-thin text-[0.78rem]',
+    money1: 'text-[0.75rem] font-light mr-3',
+    money2: 'font-light text-[0.78rem]',
 }
