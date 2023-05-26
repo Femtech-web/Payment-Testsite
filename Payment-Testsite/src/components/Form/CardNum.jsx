@@ -15,7 +15,7 @@ const CardNum = () => {
 
         <div className={`${style.flexBtw} mt-4`}>
           <div>
-              <label className={style.heading1}>Card Number</label>
+              <label className={style.heading2}>Card Number</label>
               <p className={style.subHeading}
               >
                 Enter the 16-digit card number on the card
